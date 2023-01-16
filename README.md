@@ -1,6 +1,10 @@
-Olá! ✌ meu nome é Rodrigo 😎,
-sou um analista financeiro à 9 anos e apaixonado por tecnologia. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é desenvolvimento front, estudo HTML CSS JavaScript com o objetivo de fazer aplicações que impactam a vida de milhares de usuários.
-Iniciei meus estudo em 2023 na escola ALURA porque assim, eu consigo solidificar e certificar meus conhecimentos já adquiridos.
+Olá! ✌ meu nome é Rodrigo 😎
+
+Sou analista financeiro à 9 anos e apaixonado por tecnologias. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta.
+
+Meu foco principal é desenvolvimento front, estudo HTML CSS JavaScript com o objetivo de fazer aplicações que impactam a vida de milhares de usuários.
+
+Iniciei meus estudos em 2023 na escola ALURA porque assim, eu consigo solidificar e certificar meus conhecimentos já adquiridos.
 
 🌍 Moro no São Paulo, Brasil
 
