@@ -1,7 +1,7 @@
 Olá, meu nome é Rodrigo ✌
 ==========================
 
-Sou analista financeiro à 9 anos e apaixonado por tecnologias. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta.
+Sou analista financeiro à 9 anos e apaixonado por tecnologias. Adoro codificar e descobrir como resolver problemas usando tecnologias.
 --
 
 Meu foco principal é desenvolvimento front end, estudo HTML CSS JavaScript com o objetivo de fazer aplicações que impactam a vida de milhares de usuários.
@@ -21,6 +21,8 @@ Iniciei meus estudos em 2023 na escola ALURA porque assim, eu consigo solidifica
 ⚡ Adoro ler e entender problemas
 
 
+
+<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
