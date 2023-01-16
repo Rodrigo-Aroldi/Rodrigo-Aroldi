@@ -1,5 +1,4 @@
-Oi👋meu nome é Rodrigo
-
+Olá, meu nome é Rodrigo ✌
 ==========================
 
 Sou analista financeiro à 9 anos e apaixonado por tecnologias. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta.
