@@ -3,8 +3,14 @@ sou um analista financeiro à 9 anos e apaixonado por tecnologia. Adoro codifica
 Iniciei meus estudo em 2023 na escola ALURA porque assim, eu consigo solidificar e certificar meus conhecimentos já adquiridos.
 
 🌍 Moro no São Paulo, Brasil
+
 ✉️ Você pode entrar em contato comigo em rtaroldi@gmail.com
+
 🚀 Atualmente estou trabalhando na LATAM Airlines
+
 🧠 Estou aprendendo HTML CSS e Javascript 
+
 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
+
 ⚡ Adoro ler e entender problemas
+
