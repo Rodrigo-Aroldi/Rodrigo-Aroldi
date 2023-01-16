@@ -20,3 +20,5 @@ Iniciei meus estudos em 2023 na escola ALURA porque assim, eu consigo solidifica
 
 ⚡ Adoro ler e entender problemas
 
+### Skills
+
