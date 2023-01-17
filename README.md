@@ -1,7 +1,7 @@
 Olá, meu nome é Rodrigo ✌
 ==========================
 
-### Sou analista financeiro à 9 anos e apaixonado por tecnologias. Adoro codificar e descobrir como resolver problemas usando tecnologias.
+### Sou analista financeiro à 9 anos e apaixonado por tecnologias. Adoro codificar e descobrir como resolver problemas.
 --------
 
 Meu foco principal é desenvolvimento front end e, atualmente, estou estudando HTML CSS e JavaScript com o objetivo de fazer aplicações/soluções que impactam a vida de pessoas.
@@ -16,9 +16,9 @@ Iniciei meus estudos em 2023 na escola ALURA porque assim, eu consigo solidifica
 
 🧠 Estou aprendendo HTML CSS e Javascript 
 
-🤝 Estou aberto a colaborar em projetos de alto
+🤝 Estou aberto a colaborar em projetos
 
-⚡ Adoro ler e entender problemas, descobrir soluções sempre me motiva
+⚡ Adoro ler, entender problemas e descobrir soluções sempre me motiva
 
 
 
