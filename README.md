@@ -1,8 +1,8 @@
 Olá, meu nome é Rodrigo ✌
 ==========================
 
-Sou analista financeiro à 9 anos e apaixonado por tecnologias. Adoro codificar e descobrir como resolver problemas usando tecnologias.
---
+### Sou analista financeiro à 9 anos e apaixonado por tecnologias. Adoro codificar e descobrir como resolver problemas usando tecnologias.
+--------
 
 Meu foco principal é desenvolvimento front end, atualmente estou estudando HTML CSS JavaScript com o objetivo de fazer aplicações/soluções que impactam a vida de pessoas.
 
