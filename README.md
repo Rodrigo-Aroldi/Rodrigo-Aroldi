@@ -32,6 +32,6 @@ Iniciei meus estudos em 2023 na escola ALURA porque assim, eu consigo solidifica
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="100" height="45" alt="Javascript" /></a>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Aroldi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
