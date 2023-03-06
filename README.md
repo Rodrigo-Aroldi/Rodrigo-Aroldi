@@ -22,15 +22,5 @@ Iniciei meus estudos em 2023 na escola ALURA porque assim, eu consigo solidifica
 
 
 
-### Skills
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="100" height="45" alt="HTML5"/></a>
- 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="45" alt="HTML5" /></a>
-
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="100" height="45" alt="Javascript" /></a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Aroldi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
